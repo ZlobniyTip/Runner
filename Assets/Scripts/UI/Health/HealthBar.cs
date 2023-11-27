@@ -21,7 +21,7 @@ public class HealthBar : MonoBehaviour
     private void CreateHeart()
     {
         Heart heart = Instantiate(_template, transform);
-        _hearts.Add(heart.GetComponent<Heart>());
+        _hearts.Add(heart);
         heart.ToFill();
     }
 

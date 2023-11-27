@@ -404,13 +404,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _enemies:
-  - {fileID: 9046919699528251757, guid: 9ab3df47a29f63b43bfc61c48695b135, type: 3}
-  - {fileID: 6126719985691695073, guid: d065ae3df70cebf4ea4d061f4908d70f, type: 3}
-  - {fileID: 1600228881705092404, guid: 201c3e4b5b7a5ea418a95dd092c83d4f, type: 3}
-  - {fileID: 5301761160154251630, guid: def0a69dea44d54499566a8e4238d8c1, type: 3}
-  - {fileID: 7675189195075255251, guid: 68f3b51b9148ef64a9ea5250a784398e, type: 3}
-  - {fileID: 5750468161271743821, guid: ef9e2a8d3412edb4f9d8e778aef7168d, type: 3}
-  - {fileID: 3010053062930521782, guid: 117ab99408c860e4faf52ae950f08a4d, type: 3}
+  - {fileID: -1067658154547217963, guid: 9ab3df47a29f63b43bfc61c48695b135, type: 3}
+  - {fileID: 2019184812824441276, guid: d065ae3df70cebf4ea4d061f4908d70f, type: 3}
+  - {fileID: 1874372963596586303, guid: 201c3e4b5b7a5ea418a95dd092c83d4f, type: 3}
+  - {fileID: -8287921597138117160, guid: def0a69dea44d54499566a8e4238d8c1, type: 3}
+  - {fileID: -661487496831229650, guid: 68f3b51b9148ef64a9ea5250a784398e, type: 3}
+  - {fileID: -1985219012452698605, guid: ef9e2a8d3412edb4f9d8e778aef7168d, type: 3}
+  - {fileID: -3796029107730912856, guid: 117ab99408c860e4faf52ae950f08a4d, type: 3}
   _heal: {fileID: -4827637445083922149, guid: 106f75d7ae9774944ae16f3e4fc34fa5, type: 3}
   _spawnPoints:
   - {fileID: 1531831195}
